@@ -8,8 +8,10 @@
 3. visit http://localhost:8080/swagger-ui.html#/
 4. enter the country & category for example country=pl & category=business
 5. results in format like
+
 **title:description:author  
 title:description:author**
+
 will be saved in file title "result.txt"
 ## Missing features
 
